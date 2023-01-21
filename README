@@ -1,0 +1,8 @@
+Copyright (C) 2023 Elijah Day
+
+Networked multiplayer demo using SDL2 (SDL 2.0, SDL_net 2.0).  Featuring moving squares in a void...
+
+This software is distributed under the MIT license.  See LICENSE for more information.
+
+This software utilizes SDL2 for cross-platform graphics and hardware
+access.  Visit https://www.libsdl.org/ for more information.
